@@ -25,3 +25,22 @@ CSS
 JavaScript Basics
 
  Photoshop
+
+### Code Examples
+```
+    function displayUser(firstName, lastName, age) {
+    console.log(`This is ${firstName} ${lastName}. She is ${age} years old.`)
+    }
+
+```
+# **Education**
+
+Moscow Instrument-Making College, specialty programming.
+
+Moscow Academy of Economics and Law.
+
+# **Languages**
+
+Russian
+
+English: Pre-Intermediate
